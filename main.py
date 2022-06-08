@@ -33,3 +33,4 @@ elif direction == "decode":
 
 else:
     print("Try again! ERROR!!")
+
